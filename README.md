@@ -10,6 +10,4 @@
 
 🛡️ Military-grade encryption to protect even the most sensitive data
 
-👍 Trusted by thousands of businesses and individuals worldwide
-
 
