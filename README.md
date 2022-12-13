@@ -11,6 +11,9 @@
 🛡️ Military-grade encryption to protect even the most sensitive data
 
 https://replit.com/@Meguminfan/Encryption?v=1
+
+Open in edit in workspace
+
 1.Put you key in key.txt
 
 2.Put your encrypted message in target.txt
